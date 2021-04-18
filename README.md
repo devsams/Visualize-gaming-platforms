@@ -1,4 +1,4 @@
-### Visualize-gaming-platforms
+## Visualize-gaming-platforms
 
 Introduction:¶
 The online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. In front of you is data going back to 2016. Let’s imagine that it’s December 2016 and you’re planning a campaign for 2017. The dataset contains the abbreviation ESRB. 
@@ -6,7 +6,7 @@ The Entertainment Software Rating Board evaluates a game's content and assigns a
 
 --------
 
-### Aim: Analyze the data
+## Aim: Analyze the data
 - Task 1: Study the general information
 - Task 2: Prepare the data
 
